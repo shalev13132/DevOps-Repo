@@ -11,7 +11,7 @@
     <!-- Input text box -->
     <form action="process.jsp" method="post">
         <label for="username">Enter your name:</label>
-        <input type="text" id="username" name="username" placeholder="Your Name is Shalev">
+        <input type="text" id="username" name="username" placeholder="Your Name is Adir">
         <button type="submit">Submit</button>
     </form>
 
