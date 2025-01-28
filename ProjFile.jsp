@@ -7,9 +7,8 @@
 <body>
     <h1>DevOps Verification Form</h1>
 
-    <!-- טופס הזנה -->
     <form method="post">
-        <label for="inputValue">Enter a value to verify:</label>
+        <label for="inputValue">Enter a value to Shalev:</label>
         <input type="text" id="inputValue" name="inputValue" required>
         <button type="submit">Verify</button>
     </form>
