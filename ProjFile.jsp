@@ -36,7 +36,7 @@
                 numericValue = Integer.parseInt(inputValue);
             } catch (NumberFormatException e) {
                 isNumeric = false;
-                messages.append("<p style='color:red;'>Input is not a valid .</p>");
+                messages.append("<p style='color:red;'>Input is not a valid number.</p>");
                 isValid = false;
             }
 
