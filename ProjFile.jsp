@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>DevOps Verification Form</title>
+    <title>DevOps Project Site</title>
 </head>
 <body>
-    <h1>DevOps Verification Form</h1>
+    <h1>DevOps Project Site</h1>
 
     <form method="post">
-        <label for="inputValue">Enter a value to Shalev:</label>
+        <label for="inputValue">Enter a value to The box:</label>
         <input type="text" id="inputValue" name="inputValue" required>
         <button type="submit">Verify</button>
     </form>
