@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>DevOps Project Site</title>
+    <title>DevOps Project Site1</title>
 </head>
 <body>
     <h1>DevOps Project Site</h1>
