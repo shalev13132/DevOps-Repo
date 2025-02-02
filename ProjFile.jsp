@@ -5,7 +5,7 @@
     <title>DevOps Project Site</title>
 </head>
 <body>
-    <h1>DevOps Project Site</h1>
+    <h1>DevOps Project Site Project</h1>
 
     <form method="post">
         <label for="inputValue">Enter a value to The box:</label>
